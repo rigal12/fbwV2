@@ -9,25 +9,31 @@
 >>>TO INSTALL RUN THESE  COMMANDS 
 
 
->>>(USE 1 AND 2 ONLY FOR FIRST TIME AFTER THAT ONLY USE 2 or 3 TO LAUNCH SCRIPT)
+>>>([USE ALL COMMANDS FOR THE FIRST TIME AFTER THAT YOU CAN LAUNCH SCRIPT BY EITHER OF THE LAST 2 COMMANDS ]
 
 
 
 
-apt update
-apt upgrade
-apt install python
-apt install python2
-apt install git
-git clone https://github.com/faizanwahla/fbwV2.git 
-pip2 install requests mechanize
+$ apt update
+
+$ apt upgrade
+
+$ apt install python
+
+$ apt install python2
+
+$ apt install git
+
+$ git clone https://github.com/faizanwahla/fbwV2.git
+
+$ pip2 install requests mechanize
 
 
 
 >>>TO USE FAST SCRIPT
 
 
-cd fbwV2 && python2 fbwFast.py
+$ cd fbwV2 && python2 fbwFast.py
 
 
 
@@ -36,7 +42,7 @@ cd fbwV2 && python2 fbwFast.py
 >>>TO USE LAZY SCRIPT
 
 
-cd fbwV2 && python2 fbwLazy.py
+$ cd fbwV2 && python2 fbwLazy.py
 
 
 
